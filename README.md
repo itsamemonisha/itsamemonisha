@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a data enthusiast skilled in extracting actionable insights from complex datasets using Python, R, SQL, and advanced machine learning techniques. Proficient in exploratory analysis, dashboard development, and predictive modeling, I have a proven track record of creatively leveraging data to drive informed decision-making and solve real-world problems.
+I am a data enthusiast skilled in extracting actionable insights from complex datasets using Python, R, SQL, and advanced machine learning techniques. Proficient in exploratory analysis, creative dashboard development, and predictive modeling.
 
 📫 monishaprasad99@gmail.com
 
