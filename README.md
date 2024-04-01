@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-**itsamemonisha/itsamemonisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a data enthusiast skilled in extracting actionable insights from complex datasets using Python, R, SQL, and advanced machine learning techniques. Proficient in exploratory analysis, dashboard development, and predictive modeling, I have a proven track record of creatively leveraging data to drive informed decision-making and solve real-world problems.
 
-- 📫 monishaprasad99@gmail.com
+📫 monishaprasad99@gmail.com
 
 ### Skills
 
