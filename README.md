@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I am a data enthusiast skilled in extracting actionable insights from complex datasets using Python, R, SQL, and advanced machine learning techniques. Proficient in exploratory analysis, creative dashboard development, and predictive modeling.
+I am a data enthusiast skilled in extracting actionable insights from complex datasets using Python, R, SQL, and advanced machine learning techniques. I am proficient in exploratory analysis, creative dashboard development, and predictive modeling. With a solid foundation in data engineering and research, I am driven to refine my analytical acumen to address business challenges and empower informed decision-making through compelling storytelling.
 
 Tableau Public Profile: https://public.tableau.com/app/profile/monisha.prasad/vizzes
+
 📫 monishaprasad99@gmail.com
 
 ### Skills
